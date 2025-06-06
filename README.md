@@ -1,2 +1,2 @@
 # TaiLoy
-Sistema Web para el Tailoy usando mysql, HTML, CSS. JS y PHP.
+Sistema Web para Tailoy usando mysql, HTML, CSS. JS y PHP.
